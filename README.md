@@ -3,8 +3,6 @@
 
 A static web page for rhythmic expression built with only HTML, CSS & JavaScript.  This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
 
-Try the live demo [right here](https://hackyourfuture.be/drum-kit), it looks something like this:
-
 [![drum kit screen shot](./images/screen-shot.png)](https://hackyourfuture.be/drum-kit)
 
 ---
