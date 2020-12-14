@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Drum Kit
 
 A static web page for rhythmic expression built with only HTML, CSS & JavaScript.  This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
@@ -17,9 +17,7 @@ Studying this project we learned about:
 * Using the `<audio>` tag and .wav assets
 * How the query selector can be used to easily interact with many elements
 * How milestones, labels & issues can help organize work ->
-  * user stories === milestones
-  * tasks === issues
-  * labels === what type of task it is
+  
 
 We struggled with:
 
@@ -34,10 +32,10 @@ These resources were very helpful:
 * [gmlwjd9405/git-collaboration](https://github.com/gmlwjd9405/git-collaboration)
 * [GitHub Project Management](https://github.com/features/project-management)
 
----
 
-> * Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
-=======
+
+ * Code refactored from [Wes Bos](https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+
 # javaScript-drum-kit 
 
 > A simple website allows the user to press nine different keys and listen to different sound associated with changes in the size and border of the keys , when the user press different keys during short period  ,the user will hear a sound like a drum. 
@@ -106,4 +104,4 @@ Project is: _in progress_
 
 ## Inspiration
 The project is created by `Wes Bos`
->>>>>>> 7e68282caebc953a56007ef560727799a25a7ef8
+
