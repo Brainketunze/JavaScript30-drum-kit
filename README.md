@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Drum Kit
 
 A static web page for rhythmic expression built with only HTML, CSS & JavaScript.  This project uses .wav audio files and keypress events to turn the user's keyboard into a drum set.
@@ -106,4 +106,4 @@ Project is: _in progress_
 
 ## Inspiration
 The project is created by `Wes Bos`
->>>>>>> 7e68282caebc953a56007ef560727799a25a7ef8
+
